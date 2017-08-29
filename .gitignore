@@ -5,5 +5,6 @@
 *.ear
 
 /.metadata
+.idea/
 
 /docs-to-pdf-converter/bin
